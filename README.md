@@ -59,6 +59,6 @@ Connect to Redshift using account config in Redshift. And ingest data from Catal
 
 ### 5. IAM
 Create IAM role for permissions access service S3 and Glue
-![IAM](/iam_role.png)
+![IAM](/IAM_role.png)
 
 
